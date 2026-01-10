@@ -28,4 +28,3 @@ Check:
 ```bash
 docker --version
 docker compose version
-
